@@ -4,7 +4,7 @@ OpenAI Partner University 교육 과정 자료 모음입니다. 각 과정은 �
 
 ## 트랙 구성
 
-### 🟢 ChatGPT Expert
+### <img src="./images/ChatGPTExpert.png" width="28" align="absmiddle" alt=""/> ChatGPT Expert
 | 과정 | 소요 시간 | 폴더 |
 |---|---|---|
 | ChatGPT Solutions Practitioner | 3시간 59분 | [`ChatGPT Solutions Practitioner/`](./ChatGPT%20Solutions%20Practitioner) |
@@ -12,7 +12,7 @@ OpenAI Partner University 교육 과정 자료 모음입니다. 각 과정은 �
 | OpenAI Technical Practitioner | 5시간 34분 | [`OpenAI Technical Practitioner/`](./OpenAI%20Technical%20Practitioner) |
 | OpenAI Consultative Solutions Practitioner | 4시간 57분 | [`OpenAI Consultative Solutions Practitioner/`](./OpenAI%20Consultative%20Solutions%20Practitioner) |
 
-### 🔵 Codex Expert
+### <img src="./images/CodexExpert.png" width="28" align="absmiddle" alt=""/> Codex Expert
 | 과정 | 소요 시간 | 폴더 |
 |---|---|---|
 | OpenAI Cyber Deployment Practitioner | 5시간 28분 | [`OpenAI Cyber Deployment Practitioner/`](./OpenAI%20Cyber%20Deployment%20Practitioner) |
@@ -21,7 +21,7 @@ OpenAI Partner University 교육 과정 자료 모음입니다. 각 과정은 �
 | Codex Solutions Practitioner | 3시간 32분 | [`Codex Solutions Practitioner/`](./Codex%20Solutions%20Practitioner) |
 | OpenAI Consultative Solutions Practitioner | 4시간 57분 | [`OpenAI Consultative Solutions Practitioner/`](./OpenAI%20Consultative%20Solutions%20Practitioner) |
 
-### 🟣 API Expert
+### <img src="./images/APIExpert.png" width="28" align="absmiddle" alt=""/> API Expert
 | 과정 | 소요 시간 | 폴더 |
 |---|---|---|
 | API Deployment Practitioner | 9시간 25분 | [`API Deployment Practitioner/`](./API%20Deployment%20Practitioner) |
